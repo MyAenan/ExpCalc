@@ -20,23 +20,19 @@ body {
 }
 
 #aside {
-    /*width: 34%;
-    overflow-x: scroll;*/
-     width: 34%;
-    position:fixed;
-    height: 89%;	
+  width: 34%;
+	position:fixed;
+	/* background-color: #222; */
+    height: 89%;
 }
 
 #bside {
-    /*width: 66%;
+    /* width: 66%; */
     border-left: 1px solid;
     text-align: center;
     height: 92vh;
-    overflow: auto;*/
-    border-left: 1px solid;
-    text-align: center;
-    height: 92vh;
-    overflow: auto;	
+	margin-left: 34%;
+    overflow: auto;
 }
 
 #bside .battler {
