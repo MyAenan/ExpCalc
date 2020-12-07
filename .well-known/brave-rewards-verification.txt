@@ -1,2 +1,0 @@
-Domain: myaenan.github.io
-Token: d5d728fdc5f0e7052bed4bfd7742bfcecf483a5d562d56628bfb6427535486b4
